@@ -72,6 +72,7 @@ For the newest commit of `fenix` these steps works for me to have /dev/spidev1.0
        PIN16: UARTC_TX/SPIB_SCLK -> type ALT2
 
 6. Build tester and run.
+
 	   cd /WiringPi_khadas/examples
 	   make spi_test_vim3
 	   ./spi_test_vim3
