@@ -1,4 +1,4 @@
-# Khadas VIM3 board running SPI device MAX6675
+# Khadas VIM3 running SPI device MAX6675
 For the newest commit of `fenix` these steps works for me to have /dev/spidev1.0 based on https://forum.khadas.com/t/vim3-ubuntu-spi/9372/2?u=chiahungmou and suggestions above.
 
 1.Modify `/fenix/linux/arch/arm64/boot/dts/amlogic/kvim3_linux.dts b/arch/arm64/boot/dts/amlogic/kvim3_linux.dts` as below:
