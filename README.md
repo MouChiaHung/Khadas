@@ -79,9 +79,9 @@ For the newest commit of `fenix` these steps works for me to have /dev/spidev1.0
 
 MAX6675 reading temperature
 
-![image](https://github.com/MouChiaHung/Khadas/blob/master/max6675.JPG)
-
 ![image](https://github.com/MouChiaHung/Khadas/blob/master/vim3andmax6675.jpg)
+
+![image](https://github.com/MouChiaHung/Khadas/blob/master/max6675.JPG)
 
 
 Note
