@@ -81,6 +81,9 @@ MAX6675 reading temperature
 
 ![image](https://github.com/MouChiaHung/Khadas/blob/master/max6675.JPG)
 
+![image](https://github.com/MouChiaHung/Khadas/blob/master/vim3andmax6675.jpg)
+
+
 Note
 ====
 
