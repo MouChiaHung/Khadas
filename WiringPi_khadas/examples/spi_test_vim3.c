@@ -6,7 +6,7 @@
 
 //#define MAX6675_CLOCK_SPEED 4000000
 #define MAX6675_CLOCK_SPEED 4000000
-
+//MAX6675 uses spi mode 3
 
 int main()
 {
